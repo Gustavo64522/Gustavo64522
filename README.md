@@ -1,5 +1,6 @@
 # Hi, I'm Gustavo Andrade! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
+- 👦🏽 **I'm 20 years old and I live in São Paulo - Brazil**
 - 💻 **I'm currently working as a Magento front-end developer**
 - 📜 **I’m currently learning Magento pwa-studio**
 - 😄 **Pronoun: Sr.**
