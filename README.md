@@ -2,7 +2,7 @@
 
 - 👦🏽 **I'm 21 years old and I live in São Paulo - Brazil**
 - 💻 **I'm currently working as a Magento front-end developer in Granado Rio de Janeiro**
-- 📜 **I’m currently learning Magento pwa-studio**
+- 📜 **I’m currently learning React**
 - 😄 **Pronoun: Sr.**
 
 <div>
